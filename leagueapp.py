@@ -3,7 +3,7 @@ import random
 import requests
 from cassiopeia import Summoner
 
-cass.set_riot_api_key("RGAPI-5f17ca8e-6831-4c95-b884-de4265c13223")
+cass.set_riot_api_key("")
 cass.set_default_region("NA")
 
 response = requests.get("http://ddragon.leagueoflegends.com/cdn/10.10.3216176/data/en_US/champion.json")
