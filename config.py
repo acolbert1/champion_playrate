@@ -1,1 +1,1 @@
-env = cass.set_riot_api_key("RGAPI-d59e781b-a469-4f9d-9eeb-470741191f9a")
+env = cass.set_riot_api_key("")
